@@ -1,0 +1,5 @@
+no_mixup/*
+
+__pycache__/*
+
+sedense.pt

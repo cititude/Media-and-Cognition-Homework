@@ -1,0 +1,5 @@
+classes=19
+train=../image_exp/Detection
+valid=../image_exp/Detection
+test=../image_exp/Detection
+names=data/traffic.names

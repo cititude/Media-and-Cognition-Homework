@@ -1,0 +1,17 @@
+python main.py \
+--maxdata 99999 \
+--device 2 \
+--img_size 1216 \
+--epochs 300 \
+--batch-size 2 \
+--fl_gamma 1.5 \
+--data data/traffic.data \
+--fix_seed \
+--lr 0.001 \
+--weights new3/chkpt_199.pt \
+--adam \
+--record_dir ./  \
+--only_test \
+--nms_conf_thresh 0.4 \
+--nms_iou_thresh 0.05 \
+--pred_file ./result/pred_stage1.json

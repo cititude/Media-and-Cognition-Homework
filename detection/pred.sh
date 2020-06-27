@@ -1,0 +1,1 @@
+python det_test.py --anno_file annotations.json --result_file pred.json

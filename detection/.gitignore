@@ -1,0 +1,12 @@
+!bbox_prior.txt
+!plot_result.py
+final/*
+new3/*
+resume2/*
+weights/best.pt
+imgs/*
+classification.pt
+weights/*
+
+
+__pycache__/*

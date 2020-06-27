@@ -1,0 +1,9 @@
+# data
+image_exp/*
+
+**/result/**
+
+**/__pycache__
+
+# vscode
+.vscode/*
